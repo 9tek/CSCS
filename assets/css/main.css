@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+.mobile-logo {
+	text-align: center;
+	margin-bottom: 1em;
+  }
+
 /* Basic */
 
 	html {
