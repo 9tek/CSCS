@@ -1,31 +1,28 @@
-TXT by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+CSCS-ltd 
+
+Founded in 2016, CSCS Ltd has concentrated on two primary objectives:
+
+Assisting technology-driven businesses originating from China in understanding local regulations, analysing target markets, connecting with reliable partners, and establishing a sustainable presence within the UK and European markets.
+
+Supporting UK and European companies in establishing and managing supply chains in China to enhance efficiency and effectiveness.
 
 
-A new, fully responsive portfolio/business style website template. I've been experimenting
-with minimalist styles lately and this design is one of many in the works that exemplifies
-this new direction. Hope you enjoy it.
+Our services encompass:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Go-To-Market Strategy: Designed for the launch of new products or entry into new markets, this includes customer segmentation, competitive analysis, regulation compliance, product positioning, and channel planning to facilitate a successful market entry.
 
-(* = Not included)
+Supply Chain Optimisation: Focused on supplier performance assessment, cost of goods sold (COGS) analysis, and logistics network planning to enhance supply chain efficiency and effectiveness.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Market Research & Analysis: Providing comprehensive feasibility studies, competitor benchmarking, industry trend analysis, and customer insights to support informed decision-making regarding products and markets.
 
-AJ
-aj@lkn.io | @ajlkn
+Local Business Infrastructure Setup: Assisting with company registration, regulatory compliance, licensing, team recruitment, and operational support to ensure a robust foundation for your business in the local market.
+
+Value-Added Services: Including brand development, public and government relations, participation in exhibitions, and customer support strategies to strengthen your market presence and drive long-term success.
+
+Website
+https://www.cscs-ltd.co.uk/
 
 
-Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Design & Development: Ninetek Consulting Services
+Template: TXT by HTML5 UP | html5up.net | @ajlkn | Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
