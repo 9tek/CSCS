@@ -55,7 +55,7 @@
 			$(
 				'<div id="navPanel">' +
 				'<a href="index.html" class="mobile-logo">' +
-				'<img src="images/logo1.jpg" alt="CSCS Logo" style="height: 50px; margin: 1em auto; display: block;" />' +
+				'<img src="images/logo.jpg" alt="CSCS Logo" style="height: 50px; margin: 1em auto; display: block;" />' +
 				'</a>' +
 					'<nav>' +
 						$('#nav').navList() +
