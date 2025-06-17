@@ -2552,6 +2552,13 @@ input, select, textarea {
 		padding: 6em 0 6em 0;
 	}
 
+	.client-logo {
+		width: 110px;           /* 控制最大宽度 */
+		height: auto;
+		display: block;        /* 独占一行 */
+		margin-bottom: 0.4em;  /* 与文本之间留白 */
+		}
+
 /* Sidebar + Content */
 
 	.sidebar h2.major {
