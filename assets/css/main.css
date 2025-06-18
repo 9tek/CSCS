@@ -199,6 +199,15 @@ input, select, textarea {
 		margin-bottom: 3em;
 	}
 
+	.slogan {
+		font-style: italic;
+		font-weight: 400;
+		font-size: 1.6em;
+		background: linear-gradient(90deg,#ff8971,#fb2234);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		}
+
 /* Section/Article */
 
 	section, article {
